@@ -126,10 +126,10 @@ async function handleRootRequest(request, config) {
   <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Telegraph图床-基于Workers的图床服务">
-  <meta name="keywords" content="Telegraph图床,Workers图床, Cloudflare, Workers,telegra.ph, 图床">
-  <title>Telegraph图床-基于Workers的图床服务</title>
-  <link rel="icon" href="https://p1.meituan.net/csc/c195ee91001e783f39f41ffffbbcbd484286.ico" type="image/x-icon">
+  <meta name="description" content="基于 Cloudflare Workers 的图床服务">
+  <meta name="keywords" content="Workers, Cloudflare, 图床">
+  <title>Vistash</title>
+  <link rel="icon" href="https://img.600715.xyz/1768911463361.png" type="image/x-icon">
   <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
   <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css" integrity="sha512-T584yQ/tdRR5QwOpfvDfVQUidzfgc2339Lc8uBDtcp/wYu80d7jwBgAxbyMh0a9YM9F8N3tdErpFI8iaGx6x5g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
