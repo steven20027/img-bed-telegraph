@@ -126,7 +126,7 @@ async function handleRootRequest(request, config) {
   <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="基于 Cloudflare Workers 的图床服务">
+  <meta name="description" content="Vistash，一个基于 Cloudflare Workers 的图床服务">
   <meta name="keywords" content="Workers, Cloudflare, 图床">
   <title>Vistash</title>
   <link rel="icon" href="https://img.600715.xyz/1768911463361.png" type="image/x-icon">
@@ -957,8 +957,8 @@ async function generateAdminPage(DATABASE, page = 1) {
   <!DOCTYPE html>
   <html>
   <head>
-    <title>图库</title>
-    <link rel="icon" href="https://p1.meituan.net/csc/c195ee91001e783f39f41ffffbbcbd484286.ico" type="image/x-icon">
+    <title>Vistash Gallery</title>
+    <link rel="icon" href="https://img.600715.xyz/1768911463361.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
       * {
@@ -1493,7 +1493,7 @@ async function generateAdminPage(DATABASE, page = 1) {
   </script>
   </head>
   <body>
-    <h1 class="page-title">图库管理</h1>
+    <h1 class="page-title">Vistash Gallery</h1>
     <div class="header">
       <div class="header-left">
         <span>媒体文件 ${totalCount.count} 个</span>
